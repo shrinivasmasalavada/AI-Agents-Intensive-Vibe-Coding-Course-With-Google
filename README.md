@@ -124,3 +124,29 @@ In the codelabs, you'll familiarize yourself with Antigravity 2.0, the Antigravi
 Tomorrow at 11:00 AM PT, Anant Nawalgaria and Smitha Kolan will host the first livestream on Kaggle's YouTube channel. They'll be joined by codelab author Fran Hinkelmann, along with other special guests from Google: Jamie de Guerre, Logan Kilpatrick, Parthasarathy Ranganathan, and Shubham Saboo to discuss the assignments and share insights.
 We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
 Happy learning and see you tomorrow!
+
+
+
+
+🎒 Day 2 Assignment
+Complete Unit 2 – “Agent Tools & Interoperability”
+
+Listen to the summary podcast episode for this unit.
+To complement the podcast, read the "Agent Tools & Interoperability" whitepaper.
+Complete these codelabs:
+Get started with Antigravity CLI
+Explore Google Developer Knowledge MCP server in Google Antigravity
+💡 What You'll Learn
+
+Today's whitepaper talks about standardizing the plug-and-play AI ecosystem using open protocols to eliminate the complex technical debt of custom tool integrations. It details how the Model Context Protocol (MCP) connects models to data sources, outlines Agent2Agent (A2A) collaboration, showcases Agent-to-User Interface (A2UI) for generative UI, and introduces Agent Payments Protocol (AP2) and Universal Commerce Protocol (UCP) for secure machine-to-machine commerce.
+
+In today's codelabs, you'll learn how to add MCP servers to Antigravity, giving it access to the canonical, machine-readable source of Google's public developer documentation. You'll then extend your familiarity with Antigravity by using it via the terminal with Antigravity CLI.
+
+📋 Reminders and Announcements
+
+We experienced a technical issue with our livestream timing this morning and apologize for the inconvenience. You can find day 1 livestream recording here.
+In tomorrow's livestream at 11:00 AM PT, Anant Nawalgaria and Smitha Kolan will be joined by codelab author Fran Hinkelmann, along with other special guests from Google: Mike Clark, Alan Blount, Kanchana Patlolla, and Pier Paolo Ippolito.
+As a reminder, you don't need to submit the assignments. You can complete them at your own pace.
+Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
+We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
+Happy learning and see you tomorrow!
