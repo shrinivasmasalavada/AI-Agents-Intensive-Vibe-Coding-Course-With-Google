@@ -150,3 +150,6 @@ As a reminder, you don't need to submit the assignments. You can complete them a
 Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
 We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
 Happy learning and see you tomorrow!
+
+
+🎒 Day 3 Assignment
