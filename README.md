@@ -192,4 +192,26 @@ The next livestream is tomorrow at 11 AM PT.
 Anant Nawalgaria and Smitha Kolan will be joined by codelabs author Toni Klopfenstein along with guests from Google: Ankur Jain, Meltem Subasioglu, Sokratis Kartakis, and Wafae Bakkali.
 Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
 We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
-Happy learning and see you tomorrow!
+Happy learning and see you tomorrow! 
+
+ 🎒 Final Assignment
+We've reached the final assignment! 🎉
+
+Complete Unit 5 - "Spec-Driven Production Grade Development in the Age of Vibe Coding":
+
+Listen to the summary podcast episode for this unit.
+To complement the podcast, read the "Spec-Driven Production Grade Development in the Age of Vibe Coding" whitepaper. Complete these codelabs:
+[Optional] Deploy and host your AI agents on Google Cloud
+[Optional] Build a front-end web app and link it to your cloud-hosted AI agent
+💡 What You'll Learn
+Today's whitepaper covers bridging the gap between fragile vibe-coded prototypes and production-grade enterprise software using Spec-Driven Development (SDD). It details how to treat code as disposable and behavior-driven Gherkin specifications as the source of truth, establishing safe, zero-trust development pipelines with automated code-review agents and hybrid Policy Servers.
+
+In the codelabs, you will learn how to create and deploy an agent to Google Cloud for enterprise scale. Then you will use Antigravity to vibe code a frontend client interface deployed to Cloud Run and tie it to an asynchronous event-triggering architecture that automatically feeds live expense submissions straight to your cloud-hosted agent. While these codelabs are optional today because they may require a billing account on Google Cloud, we still encourage you to scan through them to familiarize yourself with what productionization of agents and apps might look like at enterprise scale.
+
+📋 Reminders and Announcements
+Find a complete list of scheduled livestreams and past recordings here.
+The final livestream is tomorrow at 11 AM PT.
+Anant Nawalgaria and Smitha Kolan will be joined by codelabs author Lavi Nigam, and special guests from Google: Ankur Jain, Antonio Gulli, Elia Secchi, Lee Boonstra, and Omar Sanseviero.
+As a reminder, you don’t need to submit any outputs from the assignments. You can complete them at your own pace.
+Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
+We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
