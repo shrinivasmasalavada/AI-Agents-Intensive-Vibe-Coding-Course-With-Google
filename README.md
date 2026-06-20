@@ -169,3 +169,27 @@ Anant Nawalgaria and Smitha Kolan will be joined by codelabs author Polong Lin a
 As a reminder, you don't need to submit any outputs from the assignments. You can complete them at your own pace.
 Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
 We want this community to be positive and supportive. Please follow Kaggle's community guidelines.
+
+
+🎒 Day 4 Assignment
+Complete Unit 4 - "Vibe Coding Agent Security and Evaluation":
+
+Listen to the summary podcast episode for this unit.
+To complement the podcast, read the Vibe Coding Agent Security and Evaluation whitepaper.
+Complete these codelabs:
+Build an expense-approval agent with human-in-the-loop triage and local evaluations with ADK, Agents CLI and Antigravity
+Write Secure AI Code: Automated Threat Scans, Safety Guards, and Security Testing
+💡 What You'll Learn
+
+Today's whitepaper talks about redefining security and evaluation in non-deterministic AI workflows by establishing continuous "Effective Trust" through a strict 7-pillar architecture. It outlines practical safeguards such as ephemeral sandboxing, defenses against hallucinated "slopsquatting" packages, an active Red/Blue/Green security triad, and OpenTelemetry trajectory evaluation.
+
+In the codelabs, you will create an agent with human-in-the-loop so that humans can manually intervene, using ADK, Agents CLI and Antigravity. You will also learn about how to develop a secure, test-driven development with Antigravity.
+
+📋 Reminders and Announcements
+
+Find a complete list of scheduled livestreams and past recordings here.
+The next livestream is tomorrow at 11 AM PT.
+Anant Nawalgaria and Smitha Kolan will be joined by codelabs author Toni Klopfenstein along with guests from Google: Ankur Jain, Meltem Subasioglu, Sokratis Kartakis, and Wafae Bakkali.
+Be sure to ask all your questions about the podcast, readings, and codelabs in the #5dgai-question-forum channel on Kaggle's Discord, where other participants and Googlers are ready to help. Questions selected from Discord for discussion during the livestream will be chosen for Kaggle swag!
+We want this community to be positive and supportive. Please follow Kaggle's community guidelines found here.
+Happy learning and see you tomorrow!
